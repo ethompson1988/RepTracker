@@ -5,8 +5,8 @@ Our vision is to create **RepMind**, a smart and simple workout logging app desi
 ## 🚀 Try it out!
 
 👉 **Use RepTrack here:**  
-[https://unified-logic-development-team.github.io/RepTracker/](https://unified-logic-development-team.github.io/RepTracker/)
+[https://unified-logic-development-team.github.io/RepTrack/](https://unified-logic-development-team.github.io/RepTrack/)
 
-## 🏋️
+## 🏋️ Vascular Vibes
 
 ![Vascular](https://github.com/user-attachments/assets/48af48de-e6dd-476a-b9e2-04257431d629)
