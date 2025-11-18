@@ -4,7 +4,7 @@ Our vision is to create **RepTracker**, a smart and simple workout logging app d
 
 ## 🚀 Try it out!
 
-👉 **Use RepTrack here:**  
+👉 **Use RepTracker here:**  
 [https://unified-logic-development-team.github.io/RepTracker/](https://unified-logic-development-team.github.io/RepTracker/)
 
 ## 🏋️
